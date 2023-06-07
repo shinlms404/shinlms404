@@ -1,4 +1,3 @@
-
 <p align="center">
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/c1204">Xinple</a></b>.
@@ -7,10 +6,6 @@
   
   <img src="https://github.com/c1204/c1204/blob/main/33HU.gif" width="150"/>
 </p>
-
-
-------------
-
 <div align="center">
   
    [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/c1204)
@@ -18,12 +13,11 @@
    [![Twitter Badge](https://img.shields.io/badge/-@Xinple-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://twitter.com/ChanxinCn)
   
 </div>
-
-<div align="center">
+<!-- <div align="center">
   
   ![Xinple's Github stats](https://github-readme-stats.vercel.app/api?username=c1204&show_icons=true)
   
-</div>
+</div> -->
 
 
 
