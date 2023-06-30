@@ -10,7 +10,7 @@
   
    [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/c1204)
    [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:chanxin.cn@gmail.com)
-   [![Twitter Badge](https://img.shields.io/badge/-@chanxin1204-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://twitter.com/chanxin1204)
+   [![Twitter Badge](https://img.shields.io/badge/-@Chanxin-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://twitter.com/chanxin1204)
   
 </div>
 
