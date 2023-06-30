@@ -13,11 +13,25 @@
    [![Twitter Badge](https://img.shields.io/badge/-@chanxin1204-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://twitter.com/chanxin1204)
   
 </div>
-<!-- <div align="center">
+
+
+<details align="center">
+
+<summary> <b> <samp> Music </samp></b></summary>
+<samp>
   
-  ![Chanxin's Github stats](https://github-readme-stats.vercel.app/api?username=c1204&show_icons=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wdbbhkz7wgo7hf64jy3ragkfh4&cover_image=true&theme=compact&show_offline=false&background_color=ffffff&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31wdbbhkz7wgo7hf64jy3ragkfh4&redirect=true)
+
+<p align="center">
   
-</div> -->
+</p> 
+
+
+</samp>
+</details>
+
+
+
 
 
 
