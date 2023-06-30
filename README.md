@@ -49,6 +49,22 @@
 </samp>
 </details>
 
+<details align="center">
+<summary> <b> <samp> GitHub Statistics </samp></b></summary>
+<samp>
+<br/>
+  
+  ![c1204's GitHub stats](https://github-readme-stats.vercel.app/api?username=c1204&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+  
+  <br/>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ea496b99-9362-440a-acdc-722b86dc08c2/0ecc0224-d2e0-40fd-a391-eee80cca1170.png" /></a>
+
+  <br/>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ea496b99-9362-440a-acdc-722b86dc08c2/f58b8dad-eaf6-46c4-93b2-2eb08c41d046.png" width="500" /></a>
+  
+</samp>
+</details>
+
 
 
 
