@@ -58,9 +58,6 @@
   
   <br/>
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ea496b99-9362-440a-acdc-722b86dc08c2/0ecc0224-d2e0-40fd-a391-eee80cca1170.png" /></a>
-
-  <br/>
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ea496b99-9362-440a-acdc-722b86dc08c2/f58b8dad-eaf6-46c4-93b2-2eb08c41d046.png" width="500" /></a>
   
 </samp>
 </details>
