@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/c1204">ChanXin</a></b>.
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/c1204">Syin Chan</a></b>.
     <br>I'm a frontend developer from China.<br>
   </samp>
   
