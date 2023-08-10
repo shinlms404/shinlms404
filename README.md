@@ -1,14 +1,14 @@
 <p align="center">
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/c1204">Syin Chan</a></b>.
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/xxlms">Syin Chan</a></b>.
     <br>I'm a frontend developer from China.<br>
   </samp>
   
-  <img src="https://github.com/c1204/c1204/blob/main/33HU.gif" width="150"/>
+  <img src="https://github.com/xxlms/xxlms/blob/main/33HU.gif" width="150"/>
 </p>
 <div align="center">
   
-   [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/c1204)
+   [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/xxlms)
    [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cx978563372@gmail.com)
    [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_xxlms)](https://twitter.com/_xxlms)
   
@@ -54,7 +54,7 @@
 <samp>
 <br/>
   
-  ![c1204's GitHub stats](https://github-readme-stats.vercel.app/api?username=c1204&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+  ![xxlms's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxlms&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
   
   <br/>
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ea496b99-9362-440a-acdc-722b86dc08c2/0ecc0224-d2e0-40fd-a391-eee80cca1170.png" /></a>
