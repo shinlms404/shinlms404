@@ -39,16 +39,6 @@
 </samp>
 </details>
 
-
-<details align="center">
-<summary> <b> <samp> Spotify Playing </samp></b></summary>
-<samp>
-  
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wdbbhkz7wgo7hf64jy3ragkfh4&cover_image=true&theme=compact&show_offline=false&background_color=ffffff&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31wdbbhkz7wgo7hf64jy3ragkfh4&redirect=true)
-
-</samp>
-</details>
-
 <details align="center">
 <summary> <b> <samp> GitHub Statistics </samp></b></summary>
 <samp>
