@@ -1,7 +1,7 @@
 <p align="center">
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/xxlms">Shin Chan</a></b>.
-    <br>Passionate @vuejs & @flutter developer. Dreaming of strolling through Kyoto's enchanting landscapes🏯<br>
+    <br>Passionate @vuejs & @flutter developer. Dreaming of strolling through Kyoto's enchanting landscapes 🏯<br>
   </samp>
   
   <img src="https://github.com/xxlms/xxlms/blob/main/33HU.gif" width="150"/>
