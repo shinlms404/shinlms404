@@ -45,10 +45,7 @@
 <samp>
 <br/>
   
-  ![xxlms's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxlms&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-  
-  <br/>
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ea496b99-9362-440a-acdc-722b86dc08c2/0ecc0224-d2e0-40fd-a391-eee80cca1170.png" /></a>
+  ![shinlms's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinlms&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
   
 </samp>
 </details>
