@@ -8,10 +8,10 @@
 </p>
 <div align="center">
   
-   [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/shinlms)
    [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:charliechen1024@gmail.com)
-   [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_shinlms)](https://twitter.com/_shinlms)
-  
+   ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/_shinlms)
+   [![Gmail](https://img.shields.io/badge/Steam-282929?logo=steam)](https://steamcommunity.com/profiles/76561198453013506/)
+
 </div>
 
 
